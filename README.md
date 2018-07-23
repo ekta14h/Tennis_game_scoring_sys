@@ -1,0 +1,2 @@
+# Tennis_game_scoring_sys
+This project is about the tennis game scoring system, where we need to provide 2 players name and then enter the player to start the serve first. As each point is won, enter the score into the system and display the current score.It ill automatically update the game and set score and at last will declare the winner based on the max of Set won(best of 3 sets) by any player.
